@@ -200,15 +200,4 @@ public class MainActivity extends Activity {
     }
 
 }
-//민준컴
-//방허컴
-
-//아 좀 돼라
-
-//이번엔 왜안돼1
-
-//저는 정균모에요
-
-//다시될꺼야
-
-//아이런 
+//이민준
