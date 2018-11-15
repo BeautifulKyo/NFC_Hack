@@ -200,6 +200,4 @@ public class MainActivity extends Activity {
     }
 
 }
-//이민준
-
-//박효신짱짱맨
+//집에 가자....
